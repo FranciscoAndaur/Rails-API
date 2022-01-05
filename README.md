@@ -1,4 +1,4 @@
-##Creating a Rails API from Scratch
+<h1>Creating a Rails API from Scratch<h1>
 <header class="fis-header" style="visibility: hidden;"><a class="fis-git-link" href="https://github.com/learn-co-curriculum/phase-4-creating-a-rails-api" target="_blank"><img id="repo-img" title="Open GitHub Repo" alt="GitHub Repo"></a><span><span data-reactroot="" class="external-link-indicator external-link-indicator__wrapper"><span><svg version="=&quot;1.1&quot;" xmlns="=&quot;http://www.w3.org/2000/svg&quot;" tabindex="0" name="IconExportLine" viewBox="0 0 1920 1920" width="1em" height="0.8rem" aria-hidden="true" role="presentation" focusable="false" style="fill: currentcolor; width: 1em; height: 0.8rem;"><g role="presentation">
     <g stroke="none" strokewidth="1" fillrule="evenodd">
         <path d="M1360 446.872l-113.12 113.12 160 160H960c-176.48 0-320 143.52-320 320v80h160v-80c0-88.16 71.76-160 160-160h446.88l-160 160 113.12 113.12 353.12-353.12L1360 446.872z"></path>
